@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{EB4D17C0-1A74-4EC0-BC2F-13D2A3E1156F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4D17C0-1A74-4EC0-BC2F-13D2A3E1156F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4D17C0-1A74-4EC0-BC2F-13D2A3E1156F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4D17C0-1A74-4EC0-BC2F-13D2A3E1156F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4D17C0-1A74-4EC0-BC2F-13D2A3E1156F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/plain
+		$2.scope = application/xml
+		$0.XmlFormattingPolicy = $3
+		$3.inheritsSet = Mono
+		$3.inheritsScope = application/xml
+		$3.scope = application/xml
+		$0.TextStylePolicy = $4
+		$4.inheritsSet = VisualStudio
+		$4.inheritsScope = text/plain
+		$4.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $5
+		$5.IndentSwitchBody = True
+		$5.IndentBlocksInsideExpressions = True
+		$5.AnonymousMethodBraceStyle = NextLine
+		$5.PropertyBraceStyle = NextLine
+		$5.PropertyGetBraceStyle = NextLine
+		$5.PropertySetBraceStyle = NextLine
+		$5.EventBraceStyle = NextLine
+		$5.EventAddBraceStyle = NextLine
+		$5.EventRemoveBraceStyle = NextLine
+		$5.StatementBraceStyle = NextLine
+		$5.ElseNewLinePlacement = NewLine
+		$5.CatchNewLinePlacement = NewLine
+		$5.FinallyNewLinePlacement = NewLine
+		$5.WhileNewLinePlacement = DoNotCare
+		$5.ArrayInitializerWrapping = DoNotChange
+		$5.ArrayInitializerBraceStyle = NextLine
+		$5.BeforeMethodDeclarationParentheses = False
+		$5.BeforeMethodCallParentheses = False
+		$5.BeforeConstructorDeclarationParentheses = False
+		$5.NewLineBeforeConstructorInitializerColon = NewLine
+		$5.NewLineAfterConstructorInitializerColon = SameLine
+		$5.BeforeDelegateDeclarationParentheses = False
+		$5.NewParentheses = False
+		$5.SpacesBeforeBrackets = False
+		$5.inheritsSet = Mono
+		$5.inheritsScope = text/x-csharp
+		$5.scope = text/x-csharp
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
