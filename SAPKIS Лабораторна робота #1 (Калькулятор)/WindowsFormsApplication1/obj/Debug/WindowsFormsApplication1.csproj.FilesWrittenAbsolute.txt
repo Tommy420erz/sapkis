@@ -1,8 +1,0 @@
-/media/olegboocho/USB_Killer/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
-/media/olegboocho/USB_Killer/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.Form1.resources
-/media/olegboocho/USB_Killer/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.Properties.Resources.resources
-/media/olegboocho/USB_Killer/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe.config
-/media/olegboocho/USB_Killer/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.pdb
-/media/olegboocho/USB_Killer/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe
-/media/olegboocho/USB_Killer/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.exe
-/media/olegboocho/USB_Killer/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.pdb
