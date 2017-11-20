@@ -1,0 +1,41 @@
+C:\Study ONAPT\Лабы, Методички\Сапкис лабы\Lab 4 GET request\Lab 4 GET request\Lab 4 GET request\bin\Debug\Lab 4 GET request.exe.config
+C:\Study ONAPT\Лабы, Методички\Сапкис лабы\Lab 4 GET request\Lab 4 GET request\Lab 4 GET request\bin\Debug\Lab 4 GET request.exe
+C:\Study ONAPT\Лабы, Методички\Сапкис лабы\Lab 4 GET request\Lab 4 GET request\Lab 4 GET request\bin\Debug\Lab 4 GET request.pdb
+C:\Study ONAPT\Лабы, Методички\Сапкис лабы\Lab 4 GET request\Lab 4 GET request\Lab 4 GET request\bin\Debug\xNet.dll
+C:\Study ONAPT\Лабы, Методички\Сапкис лабы\Lab 4 GET request\Lab 4 GET request\Lab 4 GET request\obj\Debug\Lab 4 GET request.csprojResolveAssemblyReference.cache
+C:\Study ONAPT\Лабы, Методички\Сапкис лабы\Lab 4 GET request\Lab 4 GET request\Lab 4 GET request\obj\Debug\Lab_4_GET_request.Form1.resources
+C:\Study ONAPT\Лабы, Методички\Сапкис лабы\Lab 4 GET request\Lab 4 GET request\Lab 4 GET request\obj\Debug\Lab_4_GET_request.Properties.Resources.resources
+C:\Study ONAPT\Лабы, Методички\Сапкис лабы\Lab 4 GET request\Lab 4 GET request\Lab 4 GET request\obj\Debug\Lab 4 GET request.csproj.GenerateResource.Cache
+C:\Study ONAPT\Лабы, Методички\Сапкис лабы\Lab 4 GET request\Lab 4 GET request\Lab 4 GET request\obj\Debug\Lab 4 GET request.csproj.CoreCompileInputs.cache
+C:\Study ONAPT\Лабы, Методички\Сапкис лабы\Lab 4 GET request\Lab 4 GET request\Lab 4 GET request\obj\Debug\Lab 4 GET request.exe
+C:\Study ONAPT\Лабы, Методички\Сапкис лабы\Lab 4 GET request\Lab 4 GET request\Lab 4 GET request\obj\Debug\Lab 4 GET request.pdb
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (GET)\Lab 4 GET request\bin\Debug\Lab 4 GET request.exe.config
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (GET)\Lab 4 GET request\bin\Debug\Lab 4 GET request.exe
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (GET)\Lab 4 GET request\bin\Debug\Lab 4 GET request.pdb
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (GET)\Lab 4 GET request\obj\Debug\Lab 4 GET request.csprojResolveAssemblyReference.cache
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (GET)\Lab 4 GET request\obj\Debug\Lab_4_GET_request.Form1.resources
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (GET)\Lab 4 GET request\obj\Debug\Lab_4_GET_request.Properties.Resources.resources
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (GET)\Lab 4 GET request\obj\Debug\Lab 4 GET request.csproj.GenerateResource.Cache
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (GET)\Lab 4 GET request\obj\Debug\Lab 4 GET request.csproj.CoreCompileInputs.cache
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (GET)\Lab 4 GET request\obj\Debug\Lab 4 GET request.exe
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (GET)\Lab 4 GET request\obj\Debug\Lab 4 GET request.pdb
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (POST)\Lab 4 GET request\bin\Debug\Lab 4 GET request.exe.config
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (POST)\Lab 4 GET request\bin\Debug\Lab 4 GET request.exe
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (POST)\Lab 4 GET request\bin\Debug\Lab 4 GET request.pdb
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (POST)\Lab 4 GET request\obj\Debug\Lab 4 GET request.csprojResolveAssemblyReference.cache
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (POST)\Lab 4 GET request\obj\Debug\Lab_4_GET_request.Form1.resources
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (POST)\Lab 4 GET request\obj\Debug\Lab_4_GET_request.Properties.Resources.resources
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (POST)\Lab 4 GET request\obj\Debug\Lab 4 GET request.csproj.GenerateResource.Cache
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (POST)\Lab 4 GET request\obj\Debug\Lab 4 GET request.csproj.CoreCompileInputs.cache
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (POST)\Lab 4 GET request\obj\Debug\Lab 4 GET request.exe
+E:\Документы\Учеба\Лаб. роб\SAPKIS Лабораторна робота #4 (POST)\Lab 4 GET request\obj\Debug\Lab 4 GET request.pdb
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\SAPKIS Лабораторна робота #4 (POST)\bin\Debug\Lab 4 GET request.exe.config
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\SAPKIS Лабораторна робота #4 (POST)\bin\Debug\Lab 4 GET request.exe
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\SAPKIS Лабораторна робота #4 (POST)\bin\Debug\Lab 4 GET request.pdb
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\SAPKIS Лабораторна робота #4 (POST)\obj\Debug\Lab 4 GET request.csprojResolveAssemblyReference.cache
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\SAPKIS Лабораторна робота #4 (POST)\obj\Debug\Lab_4_GET_request.Form1.resources
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\SAPKIS Лабораторна робота #4 (POST)\obj\Debug\Lab_4_GET_request.Properties.Resources.resources
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\SAPKIS Лабораторна робота #4 (POST)\obj\Debug\Lab 4 GET request.csproj.GenerateResource.Cache
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\SAPKIS Лабораторна робота #4 (POST)\obj\Debug\Lab 4 GET request.csproj.CoreCompileInputs.cache
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\SAPKIS Лабораторна робота #4 (POST)\obj\Debug\Lab 4 GET request.exe
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\SAPKIS Лабораторна робота #4 (POST)\obj\Debug\Lab 4 GET request.pdb
