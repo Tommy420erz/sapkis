@@ -1,0 +1,20 @@
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\bin\Debug\SAPKIS lab screenshot.exe.config
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\bin\Debug\SAPKIS lab screenshot.exe
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\bin\Debug\SAPKIS lab screenshot.pdb
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\obj\Debug\SAPKIS lab screenshot.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\obj\Debug\SAPKIS_lab_screenshot.Form1.resources
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\obj\Debug\SAPKIS_lab_screenshot.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\obj\Debug\SAPKIS lab screenshot.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\obj\Debug\SAPKIS lab screenshot.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\obj\Debug\SAPKIS lab screenshot.exe
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\obj\Debug\SAPKIS lab screenshot.pdb
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\Лабораторна робота #6\bin\Debug\SAPKIS lab screenshot.exe.config
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\Лабораторна робота #6\bin\Debug\SAPKIS lab screenshot.exe
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\Лабораторна робота #6\bin\Debug\SAPKIS lab screenshot.pdb
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\Лабораторна робота #6\obj\Debug\SAPKIS lab screenshot.csprojResolveAssemblyReference.cache
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\Лабораторна робота #6\obj\Debug\SAPKIS_lab_screenshot.Form1.resources
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\Лабораторна робота #6\obj\Debug\SAPKIS_lab_screenshot.Properties.Resources.resources
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\Лабораторна робота #6\obj\Debug\SAPKIS lab screenshot.csproj.GenerateResource.Cache
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\Лабораторна робота #6\obj\Debug\SAPKIS lab screenshot.csproj.CoreCompileInputs.cache
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\Лабораторна робота #6\obj\Debug\SAPKIS lab screenshot.exe
+D:\Документы\Учеба\Лаб. роб\Системний аналiз та проектування компютерних інформаційних систем\Лабораторна робота #6\obj\Debug\SAPKIS lab screenshot.pdb
